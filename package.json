@@ -5,9 +5,6 @@
   "bin": {
     "validator-package": "bin/validator-package.js"
   },
-  "simple-git-hooks": {
-    "pre-push": "bash make lint"
-  },
   "engines": {
     "node": ">=14"
   },
