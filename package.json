@@ -33,7 +33,6 @@
     "eslint-plugin-import": "^2.27.5",
     "expect": "^29.5.0",
     "npm-check-updates": "^16.10.11",
-    "simple-git-hooks": "^2.8.1",
     "jest": "^29.5.0"
   }
 }
