@@ -28,5 +28,6 @@ describe('string validator', () => {
     expect(
       schema.contains('whatthe').isValid('what does the fox say'),
     ).toBeFalsy();
+    expect(schema.isValid('what does the fox say')).toBeFalsy();
   });
 });

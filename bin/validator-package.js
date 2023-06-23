@@ -1,5 +1,5 @@
 #!/usr/bin/env
 
-import validator from '../index.js';
+import Validator from '../index.js';
 
-console.log(validator(Number(process.argv[process.argv.length - 1])));
+export default Validator;
