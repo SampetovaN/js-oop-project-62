@@ -1,6 +1,3 @@
-install: install-deps
-	npx simple-git-hooks
-
 run:
 	bin/validator-package.js 10
 
